@@ -1,0 +1,5 @@
+﻿  textEditorHW.cpp
+C:\Users\fatal\source\repos\textEditorHW\textEditorHW\textEditorHW.cpp(95,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\fatal\source\repos\textEditorHW\textEditorHW\textEditorHW.cpp(97,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\fatal\source\repos\textEditorHW\textEditorHW\textEditorHW.cpp(712,7): warning C4101: 'choice': unreferenced local variable
+  textEditorHW.vcxproj -> C:\Users\fatal\source\repos\textEditorHW\Debug\textEditorHW.exe
